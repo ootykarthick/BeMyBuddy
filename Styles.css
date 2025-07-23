@@ -1,0 +1,60 @@
+kh1{	color:DarkBlue;
+	text-shadow: 2px 2px 4px black;
+	font-family:Times New Romen;
+	font-size:60;
+}
+kh4{	color:DarkBlue;
+	text-shadow: 2px 2px 4px black;
+	font-family:Times New Romen;
+	font-size:30;
+}
+h3{	color:orange;
+	text-shadow: 2px 2px 4px black;
+	
+	font-size:60;
+	
+}
+
+table{	text-align:center;
+	width:100%;
+	background-color:lightgray;
+}
+
+h2{	color:mediumseagreen;
+	text-align:left;
+	font-size:30;
+	
+	}
+p{
+	font-size:20;
+}
+img{ 	position:absolute;
+	img-shadow: 2px 2px 4px black;
+	left:20px;
+	top:-30px;
+	z-index:0;
+	
+}
+
+ul{ 	list-style-type:none;
+	morgin:0;
+	padding:20;
+	overflow:hidden;
+	background-color:#333;
+}
+li{
+	float:left;
+}
+li a{
+	display:black;
+	color:white;
+	text-align:center;
+	padding:14px 16px;
+	text-decoration:none;
+}
+li a:hover:not(.active){
+	background-color:#04AA6D;
+}
+.active{
+	background-color:#04AA6D;
+}
